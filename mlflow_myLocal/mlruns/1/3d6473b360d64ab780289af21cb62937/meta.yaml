@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/gangtaro/workspace/mini_mlflow/mlflow_myLocal/mlruns/1/3d6473b360d64ab780289af21cb62937/artifacts
+end_time: 1645359364704
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3d6473b360d64ab780289af21cb62937
+run_uuid: 3d6473b360d64ab780289af21cb62937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645359352434
+status: 3
+tags: []
+user_id: gangtaro

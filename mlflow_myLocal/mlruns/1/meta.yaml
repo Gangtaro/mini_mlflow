@@ -1,0 +1,4 @@
+artifact_location: file:///Users/gangtaro/workspace/mini_mlflow/mlflow_myLocal/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: regression-project
